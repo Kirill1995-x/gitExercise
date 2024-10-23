@@ -1,2 +1,2 @@
-dwfwrfsfafafef
+добавлен текст для master
 здесь добавлен текст для feature/test
