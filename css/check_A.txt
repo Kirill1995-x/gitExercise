@@ -1,1 +1,2 @@
 check A
+check B
